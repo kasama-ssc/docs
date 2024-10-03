@@ -1,0 +1,26 @@
+{
+  "id": "architecture/api-overview",
+  "title": "API Overview",
+  "description": "",
+  "source": "@site/docs/architecture/api-overview.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/api-overview",
+  "permalink": "/architecture/api-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Database Schema",
+    "permalink": "/architecture/database-schema"
+  },
+  "next": {
+    "title": "Common Issues",
+    "permalink": "/troubleshooting/common-issues"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Introduction/overview",
+  "title": "Overview",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/Introduction/overview.md",
+  "sourceDirName": "Introduction",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "defaultSidebar",
+  "next": {
+    "title": "Environment Setup",
+    "permalink": "/Introduction/environment-setup"
+  }
+}

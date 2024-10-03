@@ -1,0 +1,23 @@
+{
+  "id": "Development Guide/Database/functions/fn_hasVoted",
+  "title": "fn_hasVoted",
+  "description": "",
+  "source": "@site/docs/Development Guide/Database/functions/fn_hasVoted.md",
+  "sourceDirName": "Development Guide/Database/functions",
+  "slug": "/Development Guide/Database/functions/fn_hasVoted",
+  "permalink": "/Development Guide/Database/functions/fn_hasVoted",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "fn_getSystemStatus",
+    "permalink": "/Development Guide/Database/functions/fn_getSystemStatus"
+  },
+  "next": {
+    "title": "fn_userLoginWithPassword",
+    "permalink": "/Development Guide/Database/functions/fn_userLoginWithPassword"
+  }
+}

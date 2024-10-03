@@ -1,0 +1,22 @@
+{
+  "id": "Release Notes/future-roadmap",
+  "title": "Future Roadmap",
+  "description": "",
+  "source": "@site/docs/Release Notes/future-roadmap.md",
+  "sourceDirName": "Release Notes",
+  "slug": "/Release Notes/future-roadmap",
+  "permalink": "/Release Notes/future-roadmap",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Changelogs",
+    "permalink": "/Release Notes/changelogs"
+  }
+}

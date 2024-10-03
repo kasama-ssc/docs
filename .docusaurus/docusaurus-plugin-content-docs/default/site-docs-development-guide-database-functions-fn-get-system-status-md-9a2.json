@@ -1,0 +1,23 @@
+{
+  "id": "Development Guide/Database/functions/fn_getSystemStatus",
+  "title": "fn_getSystemStatus",
+  "description": "",
+  "source": "@site/docs/Development Guide/Database/functions/fn_getSystemStatus.md",
+  "sourceDirName": "Development Guide/Database/functions",
+  "slug": "/Development Guide/Database/functions/fn_getSystemStatus",
+  "permalink": "/Development Guide/Database/functions/fn_getSystemStatus",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "fn_getSchoolWithHighestTurnout",
+    "permalink": "/Development Guide/Database/functions/fn_getSchoolWithHighestTurnout"
+  },
+  "next": {
+    "title": "fn_hasVoted",
+    "permalink": "/Development Guide/Database/functions/fn_hasVoted"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Development Guide/Codebase/codebase_structure",
+  "title": "Codebase Structure",
+  "description": "",
+  "source": "@site/docs/Development Guide/Codebase/codebase_structure.md",
+  "sourceDirName": "Development Guide/Codebase",
+  "slug": "/Development Guide/Codebase/codebase_structure",
+  "permalink": "/Development Guide/Codebase/codebase_structure",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "User Interface Overview",
+    "permalink": "/user-guide/ui_overview"
+  },
+  "next": {
+    "title": "Schema",
+    "permalink": "/Development Guide/Database/schema"
+  }
+}

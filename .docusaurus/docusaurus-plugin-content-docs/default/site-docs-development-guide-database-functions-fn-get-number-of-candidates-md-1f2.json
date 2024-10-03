@@ -1,0 +1,23 @@
+{
+  "id": "Development Guide/Database/functions/fn_getNumberOfCandidates",
+  "title": "fn_getNumberOfCandidates",
+  "description": "",
+  "source": "@site/docs/Development Guide/Database/functions/fn_getNumberOfCandidates.md",
+  "sourceDirName": "Development Guide/Database/functions",
+  "slug": "/Development Guide/Database/functions/fn_getNumberOfCandidates",
+  "permalink": "/Development Guide/Database/functions/fn_getNumberOfCandidates",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "fn_getNumberOfActivePositions",
+    "permalink": "/Development Guide/Database/functions/fn_getNumberOfActivePositions"
+  },
+  "next": {
+    "title": "fn_getPassword",
+    "permalink": "/Development Guide/Database/functions/fn_getPassword"
+  }
+}

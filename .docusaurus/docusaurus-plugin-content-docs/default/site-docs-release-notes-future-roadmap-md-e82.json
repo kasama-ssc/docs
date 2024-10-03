@@ -1,0 +1,26 @@
+{
+  "id": "release-notes/future_roadmap",
+  "title": "Future Roadmap",
+  "description": "",
+  "source": "@site/docs/release-notes/future_roadmap.md",
+  "sourceDirName": "release-notes",
+  "slug": "/release-notes/future_roadmap",
+  "permalink": "/release-notes/future_roadmap",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Changelogs",
+    "permalink": "/release-notes/changelogs"
+  },
+  "next": {
+    "title": "Common Issues",
+    "permalink": "/troubleshooting/common-issues"
+  }
+}

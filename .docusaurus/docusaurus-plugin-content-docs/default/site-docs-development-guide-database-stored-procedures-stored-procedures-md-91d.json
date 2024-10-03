@@ -1,0 +1,26 @@
+{
+  "id": "Development Guide/Database/stored-procedures/stored-procedures",
+  "title": "Stored Procedures",
+  "description": "",
+  "source": "@site/docs/Development Guide/Database/stored-procedures/stored-procedures.md",
+  "sourceDirName": "Development Guide/Database/stored-procedures",
+  "slug": "/Development Guide/Database/stored-procedures/",
+  "permalink": "/Development Guide/Database/stored-procedures/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Functions",
+    "permalink": "/Development Guide/Database/functions/functions-1"
+  },
+  "next": {
+    "title": "Deployment Guide",
+    "permalink": "/Development Guide/deployment-guide"
+  }
+}

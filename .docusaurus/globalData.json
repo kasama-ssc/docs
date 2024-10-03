@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "overview/overview",
+          "docs": [
+            {
+              "id": "architecture/database-schema",
+              "path": "/architecture/database-schema",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "architecture/system-architecture",
+              "path": "/architecture/system-architecture",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "overview/overview",
+              "path": "/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "setup/installation",
+              "path": "/setup/installation",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "setup/prerequisites",
+              "path": "/setup/prerequisites",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "troubleshooting/common-issues",
+              "path": "/troubleshooting/common-issues",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/",
+                "label": "Overview"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

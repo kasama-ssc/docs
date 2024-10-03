@@ -1,0 +1,26 @@
+{
+  "id": "Development Guide/deployment-guide",
+  "title": "Deployment Guide",
+  "description": "",
+  "source": "@site/docs/Development Guide/deployment-guide.md",
+  "sourceDirName": "Development Guide",
+  "slug": "/Development Guide/deployment-guide",
+  "permalink": "/Development Guide/deployment-guide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3.3,
+  "frontMatter": {
+    "sidebar_position": 3.3
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Stored Procedures",
+    "permalink": "/Development Guide/Database/stored-procedures/stored_procedures"
+  },
+  "next": {
+    "title": "Version History",
+    "permalink": "/release-notes/version-history"
+  }
+}

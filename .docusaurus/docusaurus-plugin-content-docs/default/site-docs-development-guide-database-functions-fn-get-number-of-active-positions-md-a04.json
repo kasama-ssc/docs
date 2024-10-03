@@ -1,0 +1,23 @@
+{
+  "id": "Development Guide/Database/functions/fn_getNumberOfActivePositions",
+  "title": "fn_getNumberOfActivePositions",
+  "description": "",
+  "source": "@site/docs/Development Guide/Database/functions/fn_getNumberOfActivePositions.md",
+  "sourceDirName": "Development Guide/Database/functions",
+  "slug": "/Development Guide/Database/functions/fn_getNumberOfActivePositions",
+  "permalink": "/Development Guide/Database/functions/fn_getNumberOfActivePositions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "fn_adminLogin",
+    "permalink": "/Development Guide/Database/functions/fn_adminLogin"
+  },
+  "next": {
+    "title": "fn_getNumberOfCandidates",
+    "permalink": "/Development Guide/Database/functions/fn_getNumberOfCandidates"
+  }
+}

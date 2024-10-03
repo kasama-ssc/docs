@@ -1,0 +1,23 @@
+{
+  "id": "Development Guide/Database/functions/fn_getSchoolWithHighestTurnout",
+  "title": "fn_getSchoolWithHighestTurnout",
+  "description": "",
+  "source": "@site/docs/Development Guide/Database/functions/fn_getSchoolWithHighestTurnout.md",
+  "sourceDirName": "Development Guide/Database/functions",
+  "slug": "/Development Guide/Database/functions/fn_getSchoolWithHighestTurnout",
+  "permalink": "/Development Guide/Database/functions/fn_getSchoolWithHighestTurnout",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "fn_getPassword",
+    "permalink": "/Development Guide/Database/functions/fn_getPassword"
+  },
+  "next": {
+    "title": "fn_getSystemStatus",
+    "permalink": "/Development Guide/Database/functions/fn_getSystemStatus"
+  }
+}

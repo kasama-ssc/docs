@@ -1,0 +1,26 @@
+{
+  "id": "Release Notes/changelogs",
+  "title": "Changelogs",
+  "description": "",
+  "source": "@site/docs/Release Notes/changelogs.md",
+  "sourceDirName": "Release Notes",
+  "slug": "/Release Notes/changelogs",
+  "permalink": "/Release Notes/changelogs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Version History",
+    "permalink": "/Release Notes/version-history"
+  },
+  "next": {
+    "title": "Future Roadmap",
+    "permalink": "/Release Notes/future-roadmap"
+  }
+}

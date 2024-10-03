@@ -1,0 +1,26 @@
+{
+  "id": "Release Notes/version-history",
+  "title": "Version History",
+  "description": "",
+  "source": "@site/docs/Release Notes/version-history.md",
+  "sourceDirName": "Release Notes",
+  "slug": "/Release Notes/version-history",
+  "permalink": "/Release Notes/version-history",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Deployment Guide",
+    "permalink": "/Development Guide/deployment-guide"
+  },
+  "next": {
+    "title": "Changelogs",
+    "permalink": "/Release Notes/changelogs"
+  }
+}

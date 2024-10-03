@@ -1,0 +1,26 @@
+{
+  "id": "release-notes/version_history",
+  "title": "Version History",
+  "description": "",
+  "source": "@site/docs/release-notes/version_history.md",
+  "sourceDirName": "release-notes",
+  "slug": "/release-notes/version_history",
+  "permalink": "/release-notes/version_history",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "system-architecture",
+    "permalink": "/architecture/system-architecture"
+  },
+  "next": {
+    "title": "Changelogs",
+    "permalink": "/release-notes/changelogs"
+  }
+}

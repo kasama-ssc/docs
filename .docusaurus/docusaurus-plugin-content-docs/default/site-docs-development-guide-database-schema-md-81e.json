@@ -1,0 +1,26 @@
+{
+  "id": "Development Guide/Database/schema",
+  "title": "Schema",
+  "description": "",
+  "source": "@site/docs/Development Guide/Database/schema.md",
+  "sourceDirName": "Development Guide/Database",
+  "slug": "/Development Guide/Database/schema",
+  "permalink": "/Development Guide/Database/schema",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Codebase Structure",
+    "permalink": "/Development Guide/Codebase/codebase_structure"
+  },
+  "next": {
+    "title": "Functions",
+    "permalink": "/Development Guide/Database/functions/functions_1"
+  }
+}

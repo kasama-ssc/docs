@@ -1,0 +1,26 @@
+{
+  "id": "setup/prerequisites",
+  "title": "Prerequisites",
+  "description": "Before setting up the election system, ensure you meet the following requirements to smoothly install, configure, and run the application.",
+  "source": "@site/docs/setup/prerequisites.md",
+  "sourceDirName": "setup",
+  "slug": "/setup/prerequisites",
+  "permalink": "/setup/prerequisites",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "System Overview",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Installation",
+    "permalink": "/setup/installation"
+  }
+}

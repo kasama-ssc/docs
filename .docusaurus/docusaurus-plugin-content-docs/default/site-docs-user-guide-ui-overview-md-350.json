@@ -1,0 +1,26 @@
+{
+  "id": "User Guide/ui-overview",
+  "title": "User Interface Overview",
+  "description": "",
+  "source": "@site/docs/User Guide/ui-overview.md",
+  "sourceDirName": "User Guide",
+  "slug": "/User Guide/ui-overview",
+  "permalink": "/User Guide/ui-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Environment Setup",
+    "permalink": "/introduction/environment-setup"
+  },
+  "next": {
+    "title": "Codebase Structure",
+    "permalink": "/Development Guide/Codebase/codebase-structure"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Development Guide/Database/Functions/functions",
+  "title": "Functionssss",
+  "description": "",
+  "source": "@site/docs/Development Guide/Database/Functions/functions.md",
+  "sourceDirName": "Development Guide/Database/Functions",
+  "slug": "/Development Guide/Database/Functions/",
+  "permalink": "/Development Guide/Database/Functions/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2.1,
+  "frontMatter": {
+    "sidebar_position": 2.1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Schema",
+    "permalink": "/Development Guide/Database/schema"
+  },
+  "next": {
+    "title": "Stored Procedures",
+    "permalink": "/Development Guide/Database/Stored Procedures/stored-procedures"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Development Guide/Database/functions/fn_validateVote",
+  "title": "fn_validateVote",
+  "description": "",
+  "source": "@site/docs/Development Guide/Database/functions/fn_validateVote.md",
+  "sourceDirName": "Development Guide/Database/functions",
+  "slug": "/Development Guide/Database/functions/fn_validateVote",
+  "permalink": "/Development Guide/Database/functions/fn_validateVote",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "fn_userLoginWithPassword",
+    "permalink": "/Development Guide/Database/functions/fn_userLoginWithPassword"
+  },
+  "next": {
+    "title": "fn_voterExists",
+    "permalink": "/Development Guide/Database/functions/fn_voterExists"
+  }
+}

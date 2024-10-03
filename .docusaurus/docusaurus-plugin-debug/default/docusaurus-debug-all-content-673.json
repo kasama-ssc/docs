@@ -1,0 +1,255 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "contentPath": "D:\\git\\docs\\docs\\docs",
+          "contentPathLocalized": "D:\\git\\docs\\docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "architecture/database-schema",
+              "title": "Database Schema",
+              "description": "",
+              "source": "@site/docs/architecture/database-schema.md",
+              "sourceDirName": "architecture",
+              "slug": "/architecture/database-schema",
+              "permalink": "/architecture/database-schema",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "System Architecture",
+                "permalink": "/architecture/system-architecture"
+              },
+              "next": {
+                "title": "Common Issues",
+                "permalink": "/troubleshooting/common-issues"
+              }
+            },
+            {
+              "id": "architecture/system-architecture",
+              "title": "System Architecture",
+              "description": "This section provides an overview of the election system's architecture, detailing its core components and their roles within the MVCS (Model-View-Controller-Service) structure.",
+              "source": "@site/docs/architecture/system-architecture.md",
+              "sourceDirName": "architecture",
+              "slug": "/architecture/system-architecture",
+              "permalink": "/architecture/system-architecture",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Installation",
+                "permalink": "/setup/installation"
+              },
+              "next": {
+                "title": "Database Schema",
+                "permalink": "/architecture/database-schema"
+              }
+            },
+            {
+              "id": "overview/overview",
+              "title": "System Overview",
+              "description": "The voting system is a web-based platform designed to facilitate secure and user-friendly elections for Saint Louis University. It supports multiple roles such as voters, election administrators, and technical staff, each with different access levels and functionalities.",
+              "source": "@site/docs/overview/overview.md",
+              "sourceDirName": "overview",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "slug": "/"
+              },
+              "sidebar": "defaultSidebar",
+              "next": {
+                "title": "Prerequisites",
+                "permalink": "/setup/prerequisites"
+              }
+            },
+            {
+              "id": "setup/installation",
+              "title": "Installation",
+              "description": "",
+              "source": "@site/docs/setup/installation.md",
+              "sourceDirName": "setup",
+              "slug": "/setup/installation",
+              "permalink": "/setup/installation",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Prerequisites",
+                "permalink": "/setup/prerequisites"
+              },
+              "next": {
+                "title": "System Architecture",
+                "permalink": "/architecture/system-architecture"
+              }
+            },
+            {
+              "id": "setup/prerequisites",
+              "title": "Prerequisites",
+              "description": "Before setting up the election system, ensure you meet the following requirements to smoothly install, configure, and run the application.",
+              "source": "@site/docs/setup/prerequisites.md",
+              "sourceDirName": "setup",
+              "slug": "/setup/prerequisites",
+              "permalink": "/setup/prerequisites",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "System Overview",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Installation",
+                "permalink": "/setup/installation"
+              }
+            },
+            {
+              "id": "troubleshooting/common-issues",
+              "title": "Common Issues",
+              "description": "This section highlights common issues that might occur during the active election and provides quick fixes or troubleshooting steps to minimize disruptions.",
+              "source": "@site/docs/troubleshooting/common-issues.md",
+              "sourceDirName": "troubleshooting",
+              "slug": "/troubleshooting/common-issues",
+              "permalink": "/troubleshooting/common-issues",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Database Schema",
+                "permalink": "/architecture/database-schema"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "defaultSidebar": [
+              {
+                "type": "doc",
+                "label": "Overview",
+                "id": "overview/overview"
+              },
+              {
+                "type": "category",
+                "label": "Setup",
+                "collapsible": true,
+                "collapsed": true,
+                "customProps": {
+                  "description": "This description can be used in the swizzled DocCard"
+                },
+                "className": "red",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "setup/prerequisites"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "setup/installation"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Architecture",
+                "collapsible": true,
+                "collapsed": true,
+                "customProps": {
+                  "description": "This description can be used in the swizzled DocCard"
+                },
+                "className": "red",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "architecture/system-architecture"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "architecture/database-schema"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Troubleshooting",
+                "collapsible": true,
+                "collapsed": true,
+                "customProps": {
+                  "description": "This description can be used in the swizzled DocCard"
+                },
+                "className": "red",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "troubleshooting/common-issues"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        },
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

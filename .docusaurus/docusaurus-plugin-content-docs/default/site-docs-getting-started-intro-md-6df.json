@@ -1,0 +1,19 @@
+{
+  "id": "getting-started/intro",
+  "title": "Introduction",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/getting-started/intro.md",
+  "sourceDirName": "getting-started",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "defaultSidebar"
+}

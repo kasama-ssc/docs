@@ -1,0 +1,23 @@
+{
+  "id": "Development Guide/Database/functions/fn_voterExists",
+  "title": "fn_voterExists",
+  "description": "",
+  "source": "@site/docs/Development Guide/Database/functions/fn_voterExists.md",
+  "sourceDirName": "Development Guide/Database/functions",
+  "slug": "/Development Guide/Database/functions/fn_voterExists",
+  "permalink": "/Development Guide/Database/functions/fn_voterExists",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "fn_validateVote",
+    "permalink": "/Development Guide/Database/functions/fn_validateVote"
+  },
+  "next": {
+    "title": "Stored Procedures",
+    "permalink": "/Development Guide/Database/stored-procedures/stored_procedures"
+  }
+}
