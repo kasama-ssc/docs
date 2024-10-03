@@ -3,55 +3,55 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'be7'),
+    path: '/docs/markdown-page',
+    component: ComponentCreator('/docs/markdown-page', '7cd'),
     exact: true
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '718'),
+    path: '/docs/',
+    component: ComponentCreator('/docs/', '6c8'),
     routes: [
       {
-        path: '/',
-        component: ComponentCreator('/', 'f69'),
+        path: '/docs/',
+        component: ComponentCreator('/docs/', 'd89'),
         routes: [
           {
-            path: '/',
-            component: ComponentCreator('/', '066'),
+            path: '/docs/',
+            component: ComponentCreator('/docs/', '392'),
             routes: [
               {
-                path: '/architecture/database-schema',
-                component: ComponentCreator('/architecture/database-schema', '1f3'),
+                path: '/docs/',
+                component: ComponentCreator('/docs/', '900'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/architecture/system-architecture',
-                component: ComponentCreator('/architecture/system-architecture', '6e7'),
+                path: '/docs/architecture/database-schema',
+                component: ComponentCreator('/docs/architecture/database-schema', 'ae6'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/setup/installation',
-                component: ComponentCreator('/setup/installation', '15d'),
+                path: '/docs/architecture/system-architecture',
+                component: ComponentCreator('/docs/architecture/system-architecture', '28b'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/setup/prerequisites',
-                component: ComponentCreator('/setup/prerequisites', 'fbd'),
+                path: '/docs/setup/installation',
+                component: ComponentCreator('/docs/setup/installation', '015'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/troubleshooting/common-issues',
-                component: ComponentCreator('/troubleshooting/common-issues', '89c'),
+                path: '/docs/setup/prerequisites',
+                component: ComponentCreator('/docs/setup/prerequisites', '821'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/',
-                component: ComponentCreator('/', 'b13'),
+                path: '/docs/troubleshooting/common-issues',
+                component: ComponentCreator('/docs/troubleshooting/common-issues', '457'),
                 exact: true,
                 sidebar: "defaultSidebar"
               }

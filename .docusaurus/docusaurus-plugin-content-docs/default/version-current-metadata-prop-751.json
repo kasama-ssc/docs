@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Overview",
-        "href": "/",
+        "href": "/docs/",
         "docId": "overview/overview",
         "unlisted": false
       },
@@ -29,14 +29,14 @@
           {
             "type": "link",
             "label": "Prerequisites",
-            "href": "/setup/prerequisites",
+            "href": "/docs/setup/prerequisites",
             "docId": "setup/prerequisites",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Installation",
-            "href": "/setup/installation",
+            "href": "/docs/setup/installation",
             "docId": "setup/installation",
             "unlisted": false
           }
@@ -55,14 +55,14 @@
           {
             "type": "link",
             "label": "System Architecture",
-            "href": "/architecture/system-architecture",
+            "href": "/docs/architecture/system-architecture",
             "docId": "architecture/system-architecture",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Database Schema",
-            "href": "/architecture/database-schema",
+            "href": "/docs/architecture/database-schema",
             "docId": "architecture/database-schema",
             "unlisted": false
           }
@@ -81,7 +81,7 @@
           {
             "type": "link",
             "label": "Common Issues",
-            "href": "/troubleshooting/common-issues",
+            "href": "/docs/troubleshooting/common-issues",
             "docId": "troubleshooting/common-issues",
             "unlisted": false
           }

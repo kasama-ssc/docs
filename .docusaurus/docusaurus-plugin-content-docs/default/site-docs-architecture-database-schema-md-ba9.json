@@ -5,7 +5,7 @@
   "source": "@site/docs/architecture/database-schema.md",
   "sourceDirName": "architecture",
   "slug": "/architecture/database-schema",
-  "permalink": "/architecture/database-schema",
+  "permalink": "/docs/architecture/database-schema",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "System Architecture",
-    "permalink": "/architecture/system-architecture"
+    "permalink": "/docs/architecture/system-architecture"
   },
   "next": {
     "title": "Common Issues",
-    "permalink": "/troubleshooting/common-issues"
+    "permalink": "/docs/troubleshooting/common-issues"
   }
 }
