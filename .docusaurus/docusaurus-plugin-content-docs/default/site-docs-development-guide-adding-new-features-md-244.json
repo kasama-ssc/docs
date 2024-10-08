@@ -1,0 +1,26 @@
+{
+  "id": "development-guide/adding-new-features",
+  "title": "Adding New Features",
+  "description": "",
+  "source": "@site/docs/development-guide/adding-new-features.md",
+  "sourceDirName": "development-guide",
+  "slug": "/development-guide/adding-new-features",
+  "permalink": "/docs/development-guide/adding-new-features",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Code Structure",
+    "permalink": "/docs/development-guide/code-structure"
+  },
+  "next": {
+    "title": "Prerequisites",
+    "permalink": "/docs/deployment-guide/prerequisites"
+  }
+}

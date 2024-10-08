@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # System Architecture
@@ -111,7 +111,6 @@ The system uses **forms** extensively throughout the election process, allowing 
 
 - **Handling in the Controller**:
     - When a form is submitted, the system checks the `"action"` value and determines the logic to execute.
-    - This allows flexibility in handling multiple actions (like submitting a vote, managing system status, etc.) without requiring separate forms for each function.
 
 ### Entry Point: index.php
 
@@ -127,11 +126,11 @@ The **`index.php`** file serves as the central entry point for the system. It in
     if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $action = $_POST['action'] ?? '';
         switch ($action) {
-            case 'submitVote':
-                // Call the vote submission controller
+            case 'submit-ballot':
+                // Call the vote controller
                 break;
-            case 'manageStatus':
-                // Call the system status controller
+            case 'preview-ballot':
+                // Call the corresponding controller
                 break;
             // Other cases
         }
@@ -164,7 +163,7 @@ The general flow of the election process is as follows:
 
 ## 7. System Status and Logging
 
-The system features a **System Status** component that helps administrators monitor the current state of the election (open, closed, or paused). Comprehensive logging is also implemented to track user activities, errors, and system performance.
+The system features a **System Status** component that helps administrators monitor the current state of the election (open, closed, or offline). Comprehensive logging is also implemented to track user activities, errors, and system performance.
 
 - **Status Types**:
   - **Online**: Election is active, and users can cast votes.

@@ -1,11 +1,11 @@
 {
-  "id": "architecture/database-schema",
+  "id": "development-guide/database-schema",
   "title": "Database Schema",
   "description": "This section outlines the database schema for the election system. The schema is organized into multiple tables, each serving a specific purpose within the system. Below is the structure of each table, including its fields, primary keys, and foreign keys.",
-  "source": "@site/docs/architecture/database-schema.md",
-  "sourceDirName": "architecture",
-  "slug": "/architecture/database-schema",
-  "permalink": "/docs/architecture/database-schema",
+  "source": "@site/docs/development-guide/database-schema.md",
+  "sourceDirName": "development-guide",
+  "slug": "/development-guide/database-schema",
+  "permalink": "/docs/development-guide/database-schema",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,11 +16,11 @@
   },
   "sidebar": "defaultSidebar",
   "previous": {
-    "title": "System Architecture",
-    "permalink": "/docs/architecture/system-architecture"
+    "title": "Environment Setup",
+    "permalink": "/docs/development-guide/environment-setup"
   },
   "next": {
-    "title": "Common Issues",
-    "permalink": "/docs/troubleshooting/common-issues"
+    "title": "System Architecture",
+    "permalink": "/docs/development-guide/system-architecture"
   }
 }

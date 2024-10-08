@@ -17,7 +17,7 @@
   },
   "sidebar": "defaultSidebar",
   "next": {
-    "title": "Prerequisites",
-    "permalink": "/docs/setup/prerequisites"
+    "title": "Environment Setup",
+    "permalink": "/docs/development-guide/environment-setup"
   }
 }

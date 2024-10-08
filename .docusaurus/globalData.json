@@ -11,28 +11,43 @@
           "mainDocId": "overview/overview",
           "docs": [
             {
-              "id": "architecture/database-schema",
-              "path": "/docs/architecture/database-schema",
+              "id": "deployment-guide/installation",
+              "path": "/docs/deployment-guide/installation",
               "sidebar": "defaultSidebar"
             },
             {
-              "id": "architecture/system-architecture",
-              "path": "/docs/architecture/system-architecture",
+              "id": "deployment-guide/prerequisites",
+              "path": "/docs/deployment-guide/prerequisites",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "development-guide/adding-new-features",
+              "path": "/docs/development-guide/adding-new-features",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "development-guide/code-structure",
+              "path": "/docs/development-guide/code-structure",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "development-guide/database-schema",
+              "path": "/docs/development-guide/database-schema",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "development-guide/environment-setup",
+              "path": "/docs/development-guide/environment-setup",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "development-guide/system-architecture",
+              "path": "/docs/development-guide/system-architecture",
               "sidebar": "defaultSidebar"
             },
             {
               "id": "overview/overview",
               "path": "/docs/",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "setup/installation",
-              "path": "/docs/setup/installation",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "setup/prerequisites",
-              "path": "/docs/setup/prerequisites",
               "sidebar": "defaultSidebar"
             },
             {

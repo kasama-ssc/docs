@@ -1,11 +1,11 @@
 {
-  "id": "setup/prerequisites",
+  "id": "deployment-guide/prerequisites",
   "title": "Prerequisites",
   "description": "Before setting up the election system, ensure you meet the following requirements to smoothly install, configure, and run the application.",
-  "source": "@site/docs/setup/prerequisites.md",
-  "sourceDirName": "setup",
-  "slug": "/setup/prerequisites",
-  "permalink": "/docs/setup/prerequisites",
+  "source": "@site/docs/deployment-guide/prerequisites.md",
+  "sourceDirName": "deployment-guide",
+  "slug": "/deployment-guide/prerequisites",
+  "permalink": "/docs/deployment-guide/prerequisites",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,11 +16,11 @@
   },
   "sidebar": "defaultSidebar",
   "previous": {
-    "title": "Database Schema",
-    "permalink": "/docs/development-guide/database-schema"
+    "title": "Adding New Features",
+    "permalink": "/docs/development-guide/adding-new-features"
   },
   "next": {
     "title": "Installation",
-    "permalink": "/docs/setup/installation"
+    "permalink": "/docs/deployment-guide/installation"
   }
 }

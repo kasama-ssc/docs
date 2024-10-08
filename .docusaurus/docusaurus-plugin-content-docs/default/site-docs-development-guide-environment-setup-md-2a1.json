@@ -1,0 +1,26 @@
+{
+  "id": "development-guide/environment-setup",
+  "title": "Environment Setup",
+  "description": "",
+  "source": "@site/docs/development-guide/environment-setup.md",
+  "sourceDirName": "development-guide",
+  "slug": "/development-guide/environment-setup",
+  "permalink": "/docs/development-guide/environment-setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "System Overview",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Database Schema",
+    "permalink": "/docs/development-guide/database-schema"
+  }
+}

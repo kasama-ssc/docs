@@ -1,0 +1,23 @@
+{
+  "id": "development-guide/installation-instructions",
+  "title": "installation-instructions",
+  "description": "",
+  "source": "@site/docs/development-guide/installation-instructions.md",
+  "sourceDirName": "development-guide",
+  "slug": "/development-guide/installation-instructions",
+  "permalink": "/docs/development-guide/installation-instructions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "code-structure",
+    "permalink": "/docs/development-guide/code-structure"
+  },
+  "next": {
+    "title": "Prerequisites",
+    "permalink": "/docs/deployment-guide/prerequisites"
+  }
+}

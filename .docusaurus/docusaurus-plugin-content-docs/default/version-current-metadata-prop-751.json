@@ -18,7 +18,54 @@
       },
       {
         "type": "category",
-        "label": "Setup",
+        "label": "Development Guide",
+        "collapsible": true,
+        "collapsed": true,
+        "customProps": {
+          "description": "This description can be used in the swizzled DocCard"
+        },
+        "className": "red",
+        "items": [
+          {
+            "type": "link",
+            "label": "Environment Setup",
+            "href": "/docs/development-guide/environment-setup",
+            "docId": "development-guide/environment-setup",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Database Schema",
+            "href": "/docs/development-guide/database-schema",
+            "docId": "development-guide/database-schema",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "System Architecture",
+            "href": "/docs/development-guide/system-architecture",
+            "docId": "development-guide/system-architecture",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Code Structure",
+            "href": "/docs/development-guide/code-structure",
+            "docId": "development-guide/code-structure",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Adding New Features",
+            "href": "/docs/development-guide/adding-new-features",
+            "docId": "development-guide/adding-new-features",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Deployment Guide",
         "collapsible": true,
         "collapsed": true,
         "customProps": {
@@ -29,41 +76,15 @@
           {
             "type": "link",
             "label": "Prerequisites",
-            "href": "/docs/setup/prerequisites",
-            "docId": "setup/prerequisites",
+            "href": "/docs/deployment-guide/prerequisites",
+            "docId": "deployment-guide/prerequisites",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Installation",
-            "href": "/docs/setup/installation",
-            "docId": "setup/installation",
-            "unlisted": false
-          }
-        ]
-      },
-      {
-        "type": "category",
-        "label": "Architecture",
-        "collapsible": true,
-        "collapsed": true,
-        "customProps": {
-          "description": "This description can be used in the swizzled DocCard"
-        },
-        "className": "red",
-        "items": [
-          {
-            "type": "link",
-            "label": "System Architecture",
-            "href": "/docs/architecture/system-architecture",
-            "docId": "architecture/system-architecture",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Database Schema",
-            "href": "/docs/architecture/database-schema",
-            "docId": "architecture/database-schema",
+            "href": "/docs/deployment-guide/installation",
+            "docId": "deployment-guide/installation",
             "unlisted": false
           }
         ]
@@ -90,14 +111,44 @@
     ]
   },
   "docs": {
-    "architecture/database-schema": {
-      "id": "architecture/database-schema",
-      "title": "Database Schema",
+    "deployment-guide/installation": {
+      "id": "deployment-guide/installation",
+      "title": "Installation",
       "description": "",
       "sidebar": "defaultSidebar"
     },
-    "architecture/system-architecture": {
-      "id": "architecture/system-architecture",
+    "deployment-guide/prerequisites": {
+      "id": "deployment-guide/prerequisites",
+      "title": "Prerequisites",
+      "description": "Before setting up the election system, ensure you meet the following requirements to smoothly install, configure, and run the application.",
+      "sidebar": "defaultSidebar"
+    },
+    "development-guide/adding-new-features": {
+      "id": "development-guide/adding-new-features",
+      "title": "Adding New Features",
+      "description": "",
+      "sidebar": "defaultSidebar"
+    },
+    "development-guide/code-structure": {
+      "id": "development-guide/code-structure",
+      "title": "Code Structure",
+      "description": "",
+      "sidebar": "defaultSidebar"
+    },
+    "development-guide/database-schema": {
+      "id": "development-guide/database-schema",
+      "title": "Database Schema",
+      "description": "This section outlines the database schema for the election system. The schema is organized into multiple tables, each serving a specific purpose within the system. Below is the structure of each table, including its fields, primary keys, and foreign keys.",
+      "sidebar": "defaultSidebar"
+    },
+    "development-guide/environment-setup": {
+      "id": "development-guide/environment-setup",
+      "title": "Environment Setup",
+      "description": "",
+      "sidebar": "defaultSidebar"
+    },
+    "development-guide/system-architecture": {
+      "id": "development-guide/system-architecture",
       "title": "System Architecture",
       "description": "This section provides an overview of the election system's architecture, detailing its core components and their roles within the MVCS (Model-View-Controller-Service) structure.",
       "sidebar": "defaultSidebar"
@@ -106,18 +157,6 @@
       "id": "overview/overview",
       "title": "System Overview",
       "description": "The voting system is a web-based platform designed to facilitate secure and user-friendly elections for Saint Louis University. It supports multiple roles such as voters, election administrators, and technical staff, each with different access levels and functionalities.",
-      "sidebar": "defaultSidebar"
-    },
-    "setup/installation": {
-      "id": "setup/installation",
-      "title": "Installation",
-      "description": "",
-      "sidebar": "defaultSidebar"
-    },
-    "setup/prerequisites": {
-      "id": "setup/prerequisites",
-      "title": "Prerequisites",
-      "description": "Before setting up the election system, ensure you meet the following requirements to smoothly install, configure, and run the application.",
       "sidebar": "defaultSidebar"
     },
     "troubleshooting/common-issues": {

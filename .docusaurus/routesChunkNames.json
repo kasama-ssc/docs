@@ -1,46 +1,101 @@
 {
-  "/docs/markdown-page-7cd": {
-    "__comp": "1f391b9e",
+  "/docs/__docusaurus/debug-84b": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "5d6486c5"
-    },
-    "content": "393be207"
-  },
-  "/docs/-6c8": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "e2241a47"
+      "plugin": "plugin---docs-docusaurus-debuge-6-b-e51"
     }
   },
-  "/docs/-d89": {
-    "__comp": "a7bd4aaa",
-    "version": "935f2afb"
+  "/docs/__docusaurus/debug/config-1f7": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debuge-6-b-e51"
+    }
   },
-  "/docs/-392": {
-    "__comp": "a94703ab"
+  "/docs/__docusaurus/debug/content-166": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debuge-6-b-e51"
+    },
+    "allContent": "allContent---docs-docusaurus-debug-content-246-f36"
+  },
+  "/docs/__docusaurus/debug/globalData-dc7": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debuge-6-b-e51"
+    }
+  },
+  "/docs/__docusaurus/debug/metadata-231": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debuge-6-b-e51"
+    }
+  },
+  "/docs/__docusaurus/debug/registry-7cd": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debuge-6-b-e51"
+    }
+  },
+  "/docs/__docusaurus/debug/routes-21f": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docs-docusaurus-debuge-6-b-e51"
+    }
+  },
+  "/docs/markdown-page-7cd": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---docs-markdown-page-5-d-6-c1f"
+    },
+    "content": "content---docs-markdown-page-393-8aa"
+  },
+  "/docs/-53f": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docs-e-22-fc8"
+    }
+  },
+  "/docs/-2a6": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-739"
+  },
+  "/docs/-4fc": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/-900": {
-    "__comp": "17896441",
-    "content": "e94dfc49"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-e-94-d7d"
   },
-  "/docs/architecture/database-schema-ae6": {
-    "__comp": "17896441",
-    "content": "ba95eefa"
+  "/docs/deployment-guide/installation-63c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-deployment-guide-installationc-78-55a"
   },
-  "/docs/architecture/system-architecture-28b": {
-    "__comp": "17896441",
-    "content": "2f3f46e5"
+  "/docs/deployment-guide/prerequisites-081": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-deployment-guide-prerequisites-89-a-431"
   },
-  "/docs/setup/installation-015": {
-    "__comp": "17896441",
-    "content": "a8c31fc1"
+  "/docs/development-guide/adding-new-features-381": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-development-guide-adding-new-features-244-8cd"
   },
-  "/docs/setup/prerequisites-821": {
-    "__comp": "17896441",
-    "content": "61877d9f"
+  "/docs/development-guide/code-structure-d55": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-development-guide-code-structure-836-3b0"
+  },
+  "/docs/development-guide/database-schema-59b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-development-guide-database-schemac-0-e-f2c"
+  },
+  "/docs/development-guide/environment-setup-75c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-development-guide-environment-setup-2-a-1-4ca"
+  },
+  "/docs/development-guide/system-architecture-765": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-development-guide-system-architecture-287-83f"
   },
   "/docs/troubleshooting/common-issues-457": {
-    "__comp": "17896441",
-    "content": "5133d60e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-troubleshooting-common-issues-513-ef6"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "id": "development-guide/system-architecture",
+  "title": "System Architecture",
+  "description": "This section provides an overview of the election system's architecture, detailing its core components and their roles within the MVCS (Model-View-Controller-Service) structure.",
+  "source": "@site/docs/development-guide/system-architecture.md",
+  "sourceDirName": "development-guide",
+  "slug": "/development-guide/system-architecture",
+  "permalink": "/docs/development-guide/system-architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Database Schema",
+    "permalink": "/docs/development-guide/database-schema"
+  },
+  "next": {
+    "title": "Code Structure",
+    "permalink": "/docs/development-guide/code-structure"
+  }
+}

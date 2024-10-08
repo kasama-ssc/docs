@@ -13,7 +13,7 @@
   "frontMatter": {},
   "sidebar": "defaultSidebar",
   "previous": {
-    "title": "Database Schema",
-    "permalink": "/docs/architecture/database-schema"
+    "title": "Installation",
+    "permalink": "/docs/deployment-guide/installation"
   }
 }

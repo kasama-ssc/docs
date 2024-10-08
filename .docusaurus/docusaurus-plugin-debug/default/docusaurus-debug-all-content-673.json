@@ -9,21 +9,21 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/",
-          "tagsPath": "/tags",
+          "path": "/docs/",
+          "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "contentPath": "D:\\git\\docs\\docs\\docs",
-          "contentPathLocalized": "D:\\git\\docs\\docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "contentPath": "D:\\git\\docs\\docs",
+          "contentPathLocalized": "D:\\git\\docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
-              "id": "architecture/database-schema",
-              "title": "Database Schema",
+              "id": "deployment-guide/installation",
+              "title": "Installation",
               "description": "",
-              "source": "@site/docs/architecture/database-schema.md",
-              "sourceDirName": "architecture",
-              "slug": "/architecture/database-schema",
-              "permalink": "/architecture/database-schema",
+              "source": "@site/docs/deployment-guide/installation.md",
+              "sourceDirName": "deployment-guide",
+              "slug": "/deployment-guide/installation",
+              "permalink": "/docs/deployment-guide/installation",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -34,22 +34,22 @@
               },
               "sidebar": "defaultSidebar",
               "previous": {
-                "title": "System Architecture",
-                "permalink": "/architecture/system-architecture"
+                "title": "Prerequisites",
+                "permalink": "/docs/deployment-guide/prerequisites"
               },
               "next": {
                 "title": "Common Issues",
-                "permalink": "/troubleshooting/common-issues"
+                "permalink": "/docs/troubleshooting/common-issues"
               }
             },
             {
-              "id": "architecture/system-architecture",
-              "title": "System Architecture",
-              "description": "This section provides an overview of the election system's architecture, detailing its core components and their roles within the MVCS (Model-View-Controller-Service) structure.",
-              "source": "@site/docs/architecture/system-architecture.md",
-              "sourceDirName": "architecture",
-              "slug": "/architecture/system-architecture",
-              "permalink": "/architecture/system-architecture",
+              "id": "deployment-guide/prerequisites",
+              "title": "Prerequisites",
+              "description": "Before setting up the election system, ensure you meet the following requirements to smoothly install, configure, and run the application.",
+              "source": "@site/docs/deployment-guide/prerequisites.md",
+              "sourceDirName": "deployment-guide",
+              "slug": "/deployment-guide/prerequisites",
+              "permalink": "/docs/deployment-guide/prerequisites",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -60,45 +60,74 @@
               },
               "sidebar": "defaultSidebar",
               "previous": {
-                "title": "Installation",
-                "permalink": "/setup/installation"
+                "title": "Adding New Features",
+                "permalink": "/docs/development-guide/adding-new-features"
               },
               "next": {
-                "title": "Database Schema",
-                "permalink": "/architecture/database-schema"
+                "title": "Installation",
+                "permalink": "/docs/deployment-guide/installation"
               }
             },
             {
-              "id": "overview/overview",
-              "title": "System Overview",
-              "description": "The voting system is a web-based platform designed to facilitate secure and user-friendly elections for Saint Louis University. It supports multiple roles such as voters, election administrators, and technical staff, each with different access levels and functionalities.",
-              "source": "@site/docs/overview/overview.md",
-              "sourceDirName": "overview",
-              "slug": "/",
-              "permalink": "/",
+              "id": "development-guide/adding-new-features",
+              "title": "Adding New Features",
+              "description": "",
+              "source": "@site/docs/development-guide/adding-new-features.md",
+              "sourceDirName": "development-guide",
+              "slug": "/development-guide/adding-new-features",
+              "permalink": "/docs/development-guide/adding-new-features",
               "draft": false,
               "unlisted": false,
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 1,
-                "slug": "/"
+                "sidebar_position": 5
               },
               "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Code Structure",
+                "permalink": "/docs/development-guide/code-structure"
+              },
               "next": {
                 "title": "Prerequisites",
-                "permalink": "/setup/prerequisites"
+                "permalink": "/docs/deployment-guide/prerequisites"
               }
             },
             {
-              "id": "setup/installation",
-              "title": "Installation",
+              "id": "development-guide/code-structure",
+              "title": "Code Structure",
               "description": "",
-              "source": "@site/docs/setup/installation.md",
-              "sourceDirName": "setup",
-              "slug": "/setup/installation",
-              "permalink": "/setup/installation",
+              "source": "@site/docs/development-guide/code-structure.md",
+              "sourceDirName": "development-guide",
+              "slug": "/development-guide/code-structure",
+              "permalink": "/docs/development-guide/code-structure",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "System Architecture",
+                "permalink": "/docs/development-guide/system-architecture"
+              },
+              "next": {
+                "title": "Adding New Features",
+                "permalink": "/docs/development-guide/adding-new-features"
+              }
+            },
+            {
+              "id": "development-guide/database-schema",
+              "title": "Database Schema",
+              "description": "This section outlines the database schema for the election system. The schema is organized into multiple tables, each serving a specific purpose within the system. Below is the structure of each table, including its fields, primary keys, and foreign keys.",
+              "source": "@site/docs/development-guide/database-schema.md",
+              "sourceDirName": "development-guide",
+              "slug": "/development-guide/database-schema",
+              "permalink": "/docs/development-guide/database-schema",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -109,22 +138,22 @@
               },
               "sidebar": "defaultSidebar",
               "previous": {
-                "title": "Prerequisites",
-                "permalink": "/setup/prerequisites"
+                "title": "Environment Setup",
+                "permalink": "/docs/development-guide/environment-setup"
               },
               "next": {
                 "title": "System Architecture",
-                "permalink": "/architecture/system-architecture"
+                "permalink": "/docs/development-guide/system-architecture"
               }
             },
             {
-              "id": "setup/prerequisites",
-              "title": "Prerequisites",
-              "description": "Before setting up the election system, ensure you meet the following requirements to smoothly install, configure, and run the application.",
-              "source": "@site/docs/setup/prerequisites.md",
-              "sourceDirName": "setup",
-              "slug": "/setup/prerequisites",
-              "permalink": "/setup/prerequisites",
+              "id": "development-guide/environment-setup",
+              "title": "Environment Setup",
+              "description": "",
+              "source": "@site/docs/development-guide/environment-setup.md",
+              "sourceDirName": "development-guide",
+              "slug": "/development-guide/environment-setup",
+              "permalink": "/docs/development-guide/environment-setup",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -136,11 +165,60 @@
               "sidebar": "defaultSidebar",
               "previous": {
                 "title": "System Overview",
-                "permalink": "/"
+                "permalink": "/docs/"
               },
               "next": {
-                "title": "Installation",
-                "permalink": "/setup/installation"
+                "title": "Database Schema",
+                "permalink": "/docs/development-guide/database-schema"
+              }
+            },
+            {
+              "id": "development-guide/system-architecture",
+              "title": "System Architecture",
+              "description": "This section provides an overview of the election system's architecture, detailing its core components and their roles within the MVCS (Model-View-Controller-Service) structure.",
+              "source": "@site/docs/development-guide/system-architecture.md",
+              "sourceDirName": "development-guide",
+              "slug": "/development-guide/system-architecture",
+              "permalink": "/docs/development-guide/system-architecture",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Database Schema",
+                "permalink": "/docs/development-guide/database-schema"
+              },
+              "next": {
+                "title": "Code Structure",
+                "permalink": "/docs/development-guide/code-structure"
+              }
+            },
+            {
+              "id": "overview/overview",
+              "title": "System Overview",
+              "description": "The voting system is a web-based platform designed to facilitate secure and user-friendly elections for Saint Louis University. It supports multiple roles such as voters, election administrators, and technical staff, each with different access levels and functionalities.",
+              "source": "@site/docs/overview/overview.md",
+              "sourceDirName": "overview",
+              "slug": "/",
+              "permalink": "/docs/",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "slug": "/"
+              },
+              "sidebar": "defaultSidebar",
+              "next": {
+                "title": "Environment Setup",
+                "permalink": "/docs/development-guide/environment-setup"
               }
             },
             {
@@ -150,7 +228,7 @@
               "source": "@site/docs/troubleshooting/common-issues.md",
               "sourceDirName": "troubleshooting",
               "slug": "/troubleshooting/common-issues",
-              "permalink": "/troubleshooting/common-issues",
+              "permalink": "/docs/troubleshooting/common-issues",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -158,8 +236,8 @@
               "frontMatter": {},
               "sidebar": "defaultSidebar",
               "previous": {
-                "title": "Database Schema",
-                "permalink": "/architecture/database-schema"
+                "title": "Installation",
+                "permalink": "/docs/deployment-guide/installation"
               }
             }
           ],
@@ -173,7 +251,7 @@
               },
               {
                 "type": "category",
-                "label": "Setup",
+                "label": "Development Guide",
                 "collapsible": true,
                 "collapsed": true,
                 "customProps": {
@@ -183,17 +261,29 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "setup/prerequisites"
+                    "id": "development-guide/environment-setup"
                   },
                   {
                     "type": "doc",
-                    "id": "setup/installation"
+                    "id": "development-guide/database-schema"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "development-guide/system-architecture"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "development-guide/code-structure"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "development-guide/adding-new-features"
                   }
                 ]
               },
               {
                 "type": "category",
-                "label": "Architecture",
+                "label": "Deployment Guide",
                 "collapsible": true,
                 "collapsed": true,
                 "customProps": {
@@ -203,11 +293,11 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "architecture/system-architecture"
+                    "id": "deployment-guide/prerequisites"
                   },
                   {
                     "type": "doc",
-                    "id": "architecture/database-schema"
+                    "id": "deployment-guide/installation"
                   }
                 ]
               },
@@ -237,7 +327,7 @@
     "default": [
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/docs/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",
